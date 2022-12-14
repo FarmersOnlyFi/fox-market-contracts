@@ -12,11 +12,10 @@ used or integrated into the Fox Market ecosystem.*
 | Contract  | Address                                      |                                       Explorer Link                                       |
 |:---------:|----------------------------------------------|:-----------------------------------------------------------------------------------------:|
 | FoxMarket | `0xa0830985871c69c5F4788A6f95B3a238e2Bb8afC` | [Klaynscope](https://scope.klaytn.com/account/0xa0830985871c69c5F4788A6f95B3a238e2Bb8afC) |
-|
+
 
 ### DFK Chain Contracts
 
 | Contract  | Address       |                                   Explorer Link                                   |
 |:---------:|---------------|:---------------------------------------------------------------------------------:|
 | FoxMarket | `Coming Soon` | [Avalanche Subnets Explorer](https://subnets.avax.network/defi-kingdoms/address/) |
-|
